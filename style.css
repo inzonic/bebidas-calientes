@@ -1,0 +1,568 @@
+.producto-bebidas {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.producto-bebidas .div {
+  background-color: #ffffff;
+  width: 1152px;
+  height: 1620px;
+  position: relative;
+}
+
+.producto-bebidas .overlap {
+  height: 44px;
+  top: 72px;
+  background-color: #ffffff;
+  position: absolute;
+  width: 1152px;
+  left: 0;
+}
+
+.producto-bebidas .frame {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 56px;
+  position: relative;
+  left: 268px;
+}
+
+.producto-bebidas .sobre-nosotros {
+  position: relative;
+  width: 108px;
+  height: 30px;
+}
+
+.producto-bebidas .text-wrapper {
+  top: -1px;
+  left: 0;
+  color: #000000;
+  letter-spacing: 0;
+  position: absolute;
+  font-family: "Urbanist", Helvetica;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.producto-bebidas .productos {
+  position: relative;
+  width: 73px;
+  height: 30px;
+}
+
+.producto-bebidas .text-wrapper-2 {
+  top: -1px;
+  left: 0;
+  font-weight: 700;
+  color: #000000;
+  letter-spacing: 0;
+  position: absolute;
+  font-family: "Urbanist", Helvetica;
+  font-size: 16px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.producto-bebidas .locales {
+  position: relative;
+  width: 53px;
+  height: 30px;
+}
+
+.producto-bebidas .franquicias {
+  position: relative;
+  width: 78px;
+  height: 30px;
+}
+
+.producto-bebidas .contctanos {
+  position: relative;
+  width: 84px;
+  height: 15px;
+}
+
+.producto-bebidas .overlap-group {
+  height: 72px;
+  top: 0;
+  background-color: #ffffff;
+  position: absolute;
+  width: 1152px;
+  left: 0;
+}
+
+.producto-bebidas .group {
+  position: relative;
+  width: 1086px;
+  height: 40px;
+  top: 22px;
+  left: 30px;
+}
+
+.producto-bebidas .img {
+  position: absolute;
+  width: 207px;
+  height: 19px;
+  top: 4px;
+  left: 442px;
+}
+
+.producto-bebidas .frame-wrapper {
+  position: absolute;
+  width: 246px;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+.producto-bebidas .frame-2 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 31px;
+  position: relative;
+}
+
+.producto-bebidas .PT {
+  position: relative;
+  width: 24px;
+  height: 40px;
+}
+
+.producto-bebidas .EN {
+  position: relative;
+  width: 29px;
+  height: 40px;
+}
+
+.producto-bebidas .div-wrapper {
+  position: relative;
+  width: 25px;
+  height: 40px;
+}
+
+.producto-bebidas .JP {
+  position: relative;
+  width: 19px;
+  height: 40px;
+}
+
+.producto-bebidas .p {
+  position: absolute;
+  width: 794px;
+  top: 1228px;
+  left: 171px;
+  font-family: var(--tipo-2-16px-font-family);
+  font-weight: var(--tipo-2-16px-font-weight);
+  color: #000000;
+  font-size: var(--tipo-2-16px-font-size);
+  text-align: center;
+  letter-spacing: var(--tipo-2-16px-letter-spacing);
+  line-height: var(--tipo-2-16px-line-height);
+  font-style: var(--tipo-2-16px-font-style);
+}
+
+.producto-bebidas .overlap-group-2 {
+  height: 165px;
+  top: 1455px;
+  background-color: #5c2811;
+  position: absolute;
+  width: 1152px;
+  left: 0;
+}
+
+.producto-bebidas .frame-3 {
+  position: absolute;
+  width: 940px;
+  height: 85px;
+  top: 45px;
+  left: 108px;
+}
+
+.producto-bebidas .frame-4 {
+  position: absolute;
+  width: 207px;
+  height: 19px;
+  top: 16px;
+  left: 0;
+}
+
+.producto-bebidas .frame-5 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 12px;
+  position: absolute;
+  top: 0;
+  left: 760px;
+}
+
+.producto-bebidas .img-2 {
+  position: relative;
+  width: 36px;
+  height: 36px;
+}
+
+.producto-bebidas .frame-6 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 12px;
+  position: absolute;
+  top: 49px;
+  left: 760px;
+}
+
+.producto-bebidas .rectangle {
+  position: absolute;
+  width: 1152px;
+  height: 165px;
+  top: 0;
+  left: 0;
+  background-color: #5c2811;
+}
+
+.producto-bebidas .text-wrapper-3 {
+  top: 46px;
+  left: 401px;
+  color: #ffffff;
+  letter-spacing: var(--tipo-2-16px-letter-spacing);
+  position: absolute;
+  font-family: var(--tipo-2-16px-font-family);
+  font-weight: var(--tipo-2-16px-font-weight);
+  font-size: var(--tipo-2-16px-font-size);
+  line-height: var(--tipo-2-16px-line-height);
+  white-space: nowrap;
+  font-style: var(--tipo-2-16px-font-style);
+}
+
+.producto-bebidas .text-wrapper-4 {
+  position: absolute;
+  top: 46px;
+  left: 619px;
+  font-family: var(--tipo-2-16px-font-family);
+  font-weight: var(--tipo-2-16px-font-weight);
+  color: #ffffff;
+  font-size: var(--tipo-2-16px-font-size);
+  letter-spacing: var(--tipo-2-16px-letter-spacing);
+  line-height: var(--tipo-2-16px-line-height);
+  white-space: nowrap;
+  font-style: var(--tipo-2-16px-font-style);
+}
+
+.producto-bebidas .text-wrapper-5 {
+  top: 72px;
+  left: 401px;
+  font-weight: var(--tipo-2-16px-font-weight);
+  color: #ffffff;
+  letter-spacing: var(--tipo-2-16px-letter-spacing);
+  position: absolute;
+  font-family: var(--tipo-2-16px-font-family);
+  font-size: var(--tipo-2-16px-font-size);
+  line-height: var(--tipo-2-16px-line-height);
+  white-space: nowrap;
+  font-style: var(--tipo-2-16px-font-style);
+}
+
+.producto-bebidas .text-wrapper-6 {
+  position: absolute;
+  top: 72px;
+  left: 619px;
+  font-family: var(--tipo-2-16px-font-family);
+  font-weight: var(--tipo-2-16px-font-weight);
+  color: #ffffff;
+  font-size: var(--tipo-2-16px-font-size);
+  letter-spacing: var(--tipo-2-16px-letter-spacing);
+  line-height: var(--tipo-2-16px-line-height);
+  white-space: nowrap;
+  font-style: var(--tipo-2-16px-font-style);
+}
+
+.producto-bebidas .text-wrapper-7 {
+  top: 98px;
+  left: 401px;
+  color: #ffffff;
+  letter-spacing: var(--tipo-2-16px-letter-spacing);
+  position: absolute;
+  font-family: var(--tipo-2-16px-font-family);
+  font-weight: var(--tipo-2-16px-font-weight);
+  font-size: var(--tipo-2-16px-font-size);
+  line-height: var(--tipo-2-16px-line-height);
+  white-space: nowrap;
+  font-style: var(--tipo-2-16px-font-style);
+}
+
+.producto-bebidas .text-wrapper-8 {
+  position: absolute;
+  top: 98px;
+  left: 109px;
+  font-family: var(--tipo-2-16px-font-family);
+  font-weight: var(--tipo-2-16px-font-weight);
+  color: #ffffff;
+  font-size: var(--tipo-2-16px-font-size);
+  letter-spacing: var(--tipo-2-16px-letter-spacing);
+  line-height: var(--tipo-2-16px-line-height);
+  white-space: nowrap;
+  font-style: var(--tipo-2-16px-font-style);
+}
+
+.producto-bebidas .text-wrapper-9 {
+  position: absolute;
+  top: 98px;
+  left: 619px;
+  font-family: var(--tipo-2-16px-font-family);
+  font-weight: var(--tipo-2-16px-font-weight);
+  color: #ffffff;
+  font-size: var(--tipo-2-16px-font-size);
+  letter-spacing: var(--tipo-2-16px-letter-spacing);
+  line-height: var(--tipo-2-16px-line-height);
+  white-space: nowrap;
+  font-style: var(--tipo-2-16px-font-style);
+}
+
+.producto-bebidas .img-wrapper {
+  position: absolute;
+  width: 312px;
+  height: 36px;
+  top: 160px;
+  left: 748px;
+  background-color: #e2e2e2;
+  border-radius: 8px;
+}
+
+.producto-bebidas .frame-7 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 6px;
+  left: 8px;
+}
+
+.producto-bebidas .calientes-grupo {
+  top: 357px;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 8px;
+  position: absolute;
+  left: 85px;
+}
+
+.producto-bebidas .calientes {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.producto-bebidas .rectangle-2 {
+  position: relative;
+  width: 243px;
+  height: 243px;
+  object-fit: cover;
+}
+
+.producto-bebidas .frame-8 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 28px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.producto-bebidas .frame-9 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.producto-bebidas .frame-10 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.producto-bebidas .text-wrapper-10 {
+  position: relative;
+  width: 236px;
+  height: 21px;
+  margin-top: -1px;
+  font-family: var(--bold-tipo-2-16px-font-family);
+  font-weight: var(--bold-tipo-2-16px-font-weight);
+  color: #000000;
+  font-size: var(--bold-tipo-2-16px-font-size);
+  letter-spacing: var(--bold-tipo-2-16px-letter-spacing);
+  line-height: var(--bold-tipo-2-16px-line-height);
+  font-style: var(--bold-tipo-2-16px-font-style);
+}
+
+.producto-bebidas .text-wrapper-11 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--tipo-1-16px-font-family);
+  font-weight: var(--tipo-1-16px-font-weight);
+  color: #000000;
+  font-size: var(--tipo-1-16px-font-size);
+  text-align: justify;
+  letter-spacing: var(--tipo-1-16px-letter-spacing);
+  line-height: var(--tipo-1-16px-line-height);
+  white-space: nowrap;
+  font-style: var(--tipo-1-16px-font-style);
+}
+
+.producto-bebidas .text-wrapper-12 {
+  position: relative;
+  width: 227px;
+  font-family: var(--light-tipo-2-16px-font-family);
+  font-weight: var(--light-tipo-2-16px-font-weight);
+  color: #000000;
+  font-size: var(--light-tipo-2-16px-font-size);
+  letter-spacing: var(--light-tipo-2-16px-letter-spacing);
+  line-height: var(--light-tipo-2-16px-line-height);
+  font-style: var(--light-tipo-2-16px-font-style);
+}
+
+.producto-bebidas .frame-11 {
+  display: inline-flex;
+  height: 24px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 4px 18px;
+  position: relative;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.producto-bebidas .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.5px;
+  font-family: var(--tipo-1-16px-font-family);
+  font-weight: var(--tipo-1-16px-font-weight);
+  color: #000000;
+  font-size: var(--tipo-1-16px-font-size);
+  text-align: center;
+  letter-spacing: var(--tipo-1-16px-letter-spacing);
+  line-height: var(--tipo-1-16px-line-height);
+  white-space: nowrap;
+  font-style: var(--tipo-1-16px-font-style);
+}
+
+.producto-bebidas .calientes-grupo-2 {
+  top: 620px;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 8px;
+  position: absolute;
+  left: 85px;
+}
+
+.producto-bebidas .text-wrapper-14 {
+  position: relative;
+  width: 64px;
+  font-family: var(--tipo-1-16px-font-family);
+  font-weight: var(--tipo-1-16px-font-weight);
+  color: #000000;
+  font-size: var(--tipo-1-16px-font-size);
+  text-align: justify;
+  letter-spacing: var(--tipo-1-16px-letter-spacing);
+  line-height: var(--tipo-1-16px-line-height);
+  font-style: var(--tipo-1-16px-font-style);
+}
+
+.producto-bebidas .calientes-wrapper {
+  top: 908px;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 8px;
+  position: absolute;
+  left: 85px;
+}
+
+.producto-bebidas .bebidas {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: absolute;
+  top: 150px;
+  left: 88px;
+}
+
+.producto-bebidas .back-to {
+  position: relative;
+  width: 50px;
+  height: 50px;
+}
+
+.producto-bebidas .cocktail-shot {
+  position: relative;
+  width: 60px;
+  height: 60px;
+}
+
+.producto-bebidas .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  font-family: var(--bold-tipo-1-36px-font-family);
+  font-weight: var(--bold-tipo-1-36px-font-weight);
+  color: #000000;
+  font-size: var(--bold-tipo-1-36px-font-size);
+  letter-spacing: var(--bold-tipo-1-36px-letter-spacing);
+  line-height: var(--bold-tipo-1-36px-line-height);
+  white-space: nowrap;
+  font-style: var(--bold-tipo-1-36px-font-style);
+}
+
+.producto-bebidas .frame-12 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 32px;
+  position: absolute;
+  top: 237px;
+  left: 145px;
+}
+
+.producto-bebidas .text-wrapper-16 {
+  position: relative;
+  width: 143px;
+  height: 33px;
+  margin-top: -1px;
+  font-family: var(--bold-tipo-1-36px-font-family);
+  font-weight: var(--bold-tipo-1-36px-font-weight);
+  color: #000000;
+  font-size: var(--bold-tipo-1-36px-font-size);
+  letter-spacing: var(--bold-tipo-1-36px-letter-spacing);
+  line-height: var(--bold-tipo-1-36px-line-height);
+  white-space: nowrap;
+  font-style: var(--bold-tipo-1-36px-font-style);
+}
+
+.producto-bebidas .fros {
+  position: relative;
+  width: 77px;
+  height: 33px;
+}
+
+.producto-bebidas .text-wrapper-17 {
+  position: absolute;
+  width: 109px;
+  top: -1px;
+  left: 0;
+  font-family: var(--tipo-1-36px-font-family);
+  font-weight: var(--tipo-1-36px-font-weight);
+  color: #000000;
+  font-size: var(--tipo-1-36px-font-size);
+  letter-spacing: var(--tipo-1-36px-letter-spacing);
+  line-height: var(--tipo-1-36px-line-height);
+  font-style: var(--tipo-1-36px-font-style);
+}
